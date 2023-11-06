@@ -19,3 +19,9 @@ The easiest way to turn the piece on and off is to plug and unplug the wall sock
 
 ***
 If there are any questions or issues with the installation, please don't hesistate to contact me by [email](img/emailqr.jpg) or [phone](img/phoneqr.jpg)
+
+<div>
+  <img title="email" src="img/emailqr.jpg" />
+  <img title="phone" src="img/phoneqr.jpg" />
+</div>
+
