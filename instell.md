@@ -18,4 +18,4 @@ A white light underneath the LED grid should turn on, and the peic
 The easiest way to turn the piece on and off is to plug and unplug the wall socket
 
 ***
-If there are any questions or issues with the installation, please don't hesistate to contact me at 
+If there are any questions or issues with the installation, please don't hesistate to contact me by [email](img/emailqr.jpg) or [phone](img/phoneqr.jpg)
