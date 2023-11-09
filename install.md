@@ -4,7 +4,7 @@
 
 ## mounting
 Included with the piece should be all materials needed for mounting:
-- two hooks to support the bottom of the LED grid [imageGoesHere]()
+- two hooks to support the [bottom of the LED grid](img/underside.jpg)
   - these should be ca. 8mm apart, on either side of the microUSB port and inside the walls of the LED grid
 - one hook for the optic fiber to hang from
   - this hook should sit 10-12 cm above the top of the LED grid 
